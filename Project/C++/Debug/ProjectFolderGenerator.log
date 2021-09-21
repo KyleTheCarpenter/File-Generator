@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\C++\SFML\ProjectFolderGenerator\Main.cpp(81,71): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  ProjectFolderGenerator.vcxproj -> C:\C++\SFML\ProjectFolderGenerator\Debug\ProjectFolderGenerator.exe
