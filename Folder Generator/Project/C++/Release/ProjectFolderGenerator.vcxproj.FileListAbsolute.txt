@@ -1,0 +1,3 @@
+C:\C++\SFML\ProjectFolderGenerator\Release\ProjectFolderGenerator.exe
+C:\Users\kyle_\Desktop\Folder Generator\Project\C++\Release\ProjectFolderGenerator.exe
+C:\Users\kyle_\Desktop\HUB\Folder Generator\Project\C++\Release\ProjectFolderGenerator.exe
