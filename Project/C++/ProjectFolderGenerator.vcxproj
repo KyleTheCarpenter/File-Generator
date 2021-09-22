@@ -157,9 +157,11 @@
     <ResourceCompile Include="ProjectFolderGenerator.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\..\..\Godot\Project Folder Creator\ICono.png" />
+    <Image Include="..\..\..\..\Downloads\icono_cFh_icon.ico" />
     <Image Include="..\..\..\Godot\Project Folder Creator\ICono.png" />
     <Image Include="..\..\..\Users\kyle_\Downloads\icono_cFh_icon.ico" />
-    <Image Include="icon1.ico" />
+    <Image Include="icono_cFh_icon.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

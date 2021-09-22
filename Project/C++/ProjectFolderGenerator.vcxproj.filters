@@ -30,13 +30,19 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icon1.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="..\..\..\Godot\Project Folder Creator\ICono.png">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="..\..\..\Users\kyle_\Downloads\icono_cFh_icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="icono_cFh_icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\icono_cFh_icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\..\Godot\Project Folder Creator\ICono.png">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
